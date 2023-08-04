@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "7e3b3437-970e-48fe-9285-91e9c8b77c24",
+            "collectionId": "Vietnamese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Vietnamese/Vietnamese_Blog_Post/7e3b3437-970e-48fe-9285-91e9c8b77c24/7e3b3437-970e-48fe-9285-91e9c8b77c24_vi_Female.mp4"
+        },
+        {
+            "id": "144b87af-e999-4de9-8ba9-0f670dcde70a",
+            "collectionId": "Vietnamese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Vietnamese/Vietnamese_Blog_Post/144b87af-e999-4de9-8ba9-0f670dcde70a/144b87af-e999-4de9-8ba9-0f670dcde70a_vi_Male.mp4"
+        },
+        {
+            "id": "3d03235a-048a-4298-a76d-e37060e92e4b",
+            "collectionId": "Vietnamese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Vietnamese/Vietnamese_Blog_Post/3d03235a-048a-4298-a76d-e37060e92e4b/3d03235a-048a-4298-a76d-e37060e92e4b_vi_Female.mp4"
+        },
+        {
+            "id": "d5ef11fb-8686-4b77-9732-7e31d3a43e1b",
+            "collectionId": "Vietnamese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Vietnamese/Vietnamese_Blog_Post/d5ef11fb-8686-4b77-9732-7e31d3a43e1b/d5ef11fb-8686-4b77-9732-7e31d3a43e1b_vi_Female.mp4"
+        }
+    ]
+}
